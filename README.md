@@ -1,5 +1,5 @@
 # Metainfo
-
+![A nice stair](images/sas_copenhagen.jpg)
 ## Purpose
 Purpose of this project is to explore what architecture, enterprise design and software engineering can accomplish within the records management and information governance domain. 
 
