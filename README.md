@@ -1,6 +1,6 @@
 # Metainfo
 ![A nice space](images/sas_copenhagen.jpg)
-A nice space
+<p style="text-align: center;">A nice space</p>
 
 ## Purpose
 Purpose of this project is to explore what architecture, enterprise design and software engineering can accomplish within digital product development.  
@@ -24,9 +24,9 @@ Design is about organising the parts of a product in its entirety(Rams).
 Enterprises can be understood by it's part described according to Edgy or Enterprise Design Framework. With 'enterprise' can also be meant smaller parts like a team, a certain service or department or any other phenomenon in a business. All these parts are needed to provide digital products. 
 We assume then that with a designerly, architectural and software engineering approach it is possible to design an enterprise and its products. 
 
-The way to address knowledge about the digital material the best way is to start with object orientation. It is not possible to sell a feature, a digital device, an architecture or platform or service. It is only possible to sell use-cases ,everything else is a cost and thus these need to be reconciled to make the product commercially viable.
+The way to address knowledge about the digital material the best way is to start with object orientation. It is not possible to sell a feature, a digital device, an architecture or platform or service. It is only possible to sell use-cases ,everything else is a cost and thus these need to be reconciled to make the product commercially viable. (Coplien)
 
-As in ship building the basic forms are given. In digital products this is sometimes forgotten. The pattern movement address this. We think that the basic pattern is object orientation and business impact and user outcomes can be viewed as abstract base classes and thus possible to align everything in an enterprise, from strategy, ways of working, to practical implementation and rendering of products in software.
+As in ship building the basic forms are given. In digital products this is sometimes forgotten. The pattern movement address this.(Alexander et al) We think that the basic pattern is object orientation and business impact and user outcomes can be viewed as abstract base classes and thus possible to align everything in an enterprise, from strategy, ways of working, to practical implementation and rendering of products in software.
 
 ## Idea to test
 See 'PlasticBox_DesignSituation_BoardThing'(PDF)
