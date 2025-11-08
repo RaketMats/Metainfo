@@ -1,6 +1,5 @@
 # Metainfo
 ![A nice space](images/sas_copenhagen.jpg)
-<p style="text-align: center;">A nice space</p>
 
 ## Purpose
 Purpose of this project is to explore what architecture, enterprise design and software engineering can accomplish within digital product development.  
@@ -46,22 +45,22 @@ See 'PlasticBox_DesignSituation_BoardThing'(PDF)
 How to drive work. 
 
 # References
-References
-Adams, J(2019): __Conceptual Blockbusting__, Basic Books; 5th edition
-Aurelius(2025): __aureliuslab.com__, Aureliuslab LLC
-Brooks(19nn) __The Mythical Man Month__, tbd
-Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley
-Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group
-Guenther M(2013): __Intersection__, Elsevier
-Nelson H and Stolterman E(2014): __Design Way__, MIT Press; 2nd edition
-Newman Damien, (2025): __the Design Squiggle__, self hosted
-Padron(2015): __Arkitekturell Förmåga__, Iasa Sverige
-Stolterman E and Obrenovic Z(2016): __Design Instability__, Leanpub
-Sundblad(2015): __Sundblad Framework och Arkitektur__, www.certifiedsoftwarearchitect.com
-Telier A(2011): __Design Things__, MIT Press
-Österlin K(2023): __Design I fokus__, Skissbox.se, 5th edition
-Wikberg Å, Törlind P, Ericsson Å(2021): __Design, Process och Metod__, Studentlitteratur
-Zachman och grunden för arkitekturramverk
-Todo: RUP Booch et al…
-Todo: Cynefin
+References  
+Adams, J(2019): __Conceptual Blockbusting__, Basic Books; 5th edition  
+Aurelius(2025): __aureliuslab.com__, Aureliuslab LLC  
+Brooks(19nn) __The Mythical Man Month__, Addison-Wesley; 2nd edition  
+Coplien J, Björnvig G(2010): __Lean Architecture__, Wiley  
+Goebl W, Guenther M, Klyver A, Papegaaij B(2020): __Enterprise Design Patterns__, Intersection Group  
+Guenther M(2013): __Intersection__, Elsevier  
+Nelson H and Stolterman E(2014): __Design Way__, MIT Press; 2nd edition  
+Newman Damien, (2025): __the Design Squiggle__, www.thedesignsquiggle.com  
+Padron(2015): __Arkitekturell Förmåga__, Iasa Sverige  
+Stolterman E and Obrenovic Z(2016): __Design Instability__, Leanpub  
+Sundblad(2015): __Sundblad Framework och Arkitektur__, www.certifiedsoftwarearchitect.com  
+Telier A(2011): __Design Things__, MIT Press  
+Österlin K(2023): __Design I fokus__, Skissbox.se, 5th edition  
+Wikberg Å, Törlind P, Ericsson Å(2021): __Design, Process och Metod__, Studentlitteratur  
+Zachman och grunden för arkitekturramverk  
+Jacobson I et al(1999): __The Unified Software Development Process__, Addison-Wesley
+
 
