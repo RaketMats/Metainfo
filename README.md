@@ -65,4 +65,4 @@ Jacobson I et al(1999): __The Unified Software Development Process__, Addison-We
 
 # License
 Content is licensed under CC-BY-SA-4.0
-
+Software (future) license is tbd
