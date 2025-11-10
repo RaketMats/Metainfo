@@ -37,12 +37,8 @@ Detta har därför ett stort inslag av tillämpad arkitektur, design, systemteor
 
 
 
-## Idea to test
-See 'PlasticBox_DesignSituation_BoardThing'(PDF)
-
-## Insights and Hypothesises
-
-How to drive work. 
+## Ideas to test
+How to create a continous discovery loop around practical tools implementing ideas we want to explore. 
 
 # References
 References  
@@ -64,5 +60,5 @@ Zachman och grunden för arkitekturramverk
 Jacobson I et al(1999): __The Unified Software Development Process__, Addison-Wesley
 
 # License
-Content is licensed under CC-BY-SA-4.0
+Content is licensed under CC-BY-SA-4.0  
 Software (future) license is tbd
