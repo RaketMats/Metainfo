@@ -63,4 +63,6 @@ Wikberg Å, Törlind P, Ericsson Å(2021): __Design, Process och Metod__, Studen
 Zachman och grunden för arkitekturramverk  
 Jacobson I et al(1999): __The Unified Software Development Process__, Addison-Wesley
 
+# License
+Content is licensed under CC-BY-SA-4.0
 
